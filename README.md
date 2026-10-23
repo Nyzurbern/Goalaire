@@ -11,4 +11,4 @@ Welcome to Goalaire! The app is all about setting goals and sticking to them. By
 ## Credits
 This app was built by Khoo Zi Qi, Ramya Kanthaprakash Hrithik, Nitin Ramesh, and Anish Das as part of the 2025 Swift Accelerator Programme for Challenge 3.
 ## Download
-Download on the app on the App Store: https://apps.apple.com/us/app/goalaire/id6755883375
+Download the app on the App Store: https://apps.apple.com/us/app/goalaire/id6755883375
